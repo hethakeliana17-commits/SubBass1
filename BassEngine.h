@@ -1,4 +1,4 @@
-// BassEngine.h
+// Source/BassEngine.h
 // A small monophonic bass synthesizer engine with NO dependency on JUCE.
 // Signal path:  Osc1 + Osc2 + Sub  ->  4-pole ladder low-pass  ->  drive  ->  amp envelope  ->  volume
 // Keeping the DSP separate from the plugin wrapper makes it easy to test and to reuse.
