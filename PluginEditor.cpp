@@ -1,4 +1,4 @@
-#include "PluginEditor.h"
+#include "Source/PluginEditor.h"
 
 namespace
 {
