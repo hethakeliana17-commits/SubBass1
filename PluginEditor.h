@@ -1,6 +1,6 @@
 #pragma once
 
-#include "PluginProcessor.h"
+#include "Source/PluginProcessor.h"
 
 // One labelled control (knob, drop-down or switch) tied to a plugin parameter.
 class ParamControl : public juce::Component
