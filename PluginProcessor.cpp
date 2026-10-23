@@ -1,5 +1,5 @@
-#include "PluginProcessor.h"
-#include "PluginEditor.h"
+#include "Source/PluginProcessor.h"
+#include "Source/PluginEditor.h"
 
 namespace
 {
